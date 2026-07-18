@@ -13,6 +13,7 @@ I am a Computer Science senior graduating in early 2027, leveraging a background
 * 🔍 Applying my diagnostic and analytical skills to write secure, well-documented code.
 
 **🌱 Beyond the Code**
+
 When I step away from the keyboard, I am usually writing fantasy fiction, running tabletop campaigns as a support bard, or maintaining a bioactive terrarium. 
 
 **📫 Let's Connect**
